@@ -22,8 +22,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center",
-      "blockClass": "vintage"
+      "textAlignment": "center"
     }
   },
   "info-card#button-left": {
@@ -37,7 +36,6 @@
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",      
-      "blockClass": "metal" 
     }
   }
 }
