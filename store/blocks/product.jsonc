@@ -43,7 +43,7 @@
       "showListPrice": true
     }
   },
-  "flex-layout.row#main": { 
+  "product-identifier.product": {
     "children": [
       "product-price",
       "flex-layout.row#qty-sku"
